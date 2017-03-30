@@ -1,0 +1,9 @@
+.container {
+  padding: 2em;
+  background: #f2f2f2;
+
+  &__header {
+    color: orange;
+    letter-spacing: 1px;
+  }
+}
